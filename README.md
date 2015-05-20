@@ -1,5 +1,13 @@
 # mermin-sim
 
+See paper published May 2015 on Vixra
+
+
+"The Emperor Has No Nonlocality"
+Dr. Lukas A. Saul
+Oxford England
+April 2015
+
 We simulate here two detectors and a source in an EPR-type experiment.
 The goal is to answer Mermin's request that we "find some other 
 explanation that arrives at these outcome statistics".  The model is 
